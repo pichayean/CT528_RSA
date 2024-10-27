@@ -26,3 +26,4 @@ C:\Users\LazyMarcus\source\repos\CT528_RSA\RSADemo\obj\Debug\net8.0\refint\RSADe
 C:\Users\LazyMarcus\source\repos\CT528_RSA\RSADemo\obj\Debug\net8.0\RSADemo.pdb
 C:\Users\LazyMarcus\source\repos\CT528_RSA\RSADemo\obj\Debug\net8.0\RSADemo.genruntimeconfig.cache
 C:\Users\LazyMarcus\source\repos\CT528_RSA\RSADemo\obj\Debug\net8.0\ref\RSADemo.dll
+C:\Users\LazyMarcus\source\repos\CT528_RSA\RSADemo\obj\Debug\net8.0\RSADemo.sourcelink.json
